@@ -75,7 +75,7 @@ The dataset contains **9,568** data points collected from a power plant over **6
 
 ## Visual Insight
 
-![Model Predictions vs Actuals](./download.png)
+![[Model Predictions vs Actuals](./download.png)](https://github.com/Rinisha11/ccpp_ml_project/blob/main/Model%20Predictions%20Vs%20Actuals.png)
 
 ---
 
