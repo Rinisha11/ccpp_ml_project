@@ -103,4 +103,4 @@ CCPP-Prediction/
 
 **Rinisha Stanley**  
 AI Enthusiast | Prompt Engineer | Data Storyteller  
-[LinkedIn](https://www.linkedin.com/in/rinishastanley) | [GitHub](https://github.com/rinishastanley)
+[LinkedIn](https://www.linkedin.com/in/rinishastanley) | [GitHub](https://github.com/Rinisha11))
